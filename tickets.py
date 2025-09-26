@@ -2,7 +2,7 @@ import streamlit as st
 import hashlib
 import json
 from time import time
-
+import qrcode
 from io import BytesIO
 
 # Simple Blockchain class
